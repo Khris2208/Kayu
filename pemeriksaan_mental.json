@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nama": "de",
+    "usia": 5,
+    "jenis_kelamin": "Laki-laki",
+    "gejala": [
+      "sedih",
+      "malasselsesai"
+    ],
+    "kategori_utama": "depresi",
+    "tanggal_pemeriksaan": "2026-01-09 13:09:57"
+  }
+]
